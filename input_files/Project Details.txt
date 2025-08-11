@@ -1,0 +1,19 @@
+Project Task 
+Objective: 
+Develop a chatbot using any framework of your choice, and integrate it with an open-source 
+large language model (LLM) hosted on Hugging Face. 
+Core Features: 
+1. OCR Support: 
+Extract text from various file types including .pdf, .docx, .png, etc., using Optical 
+Character Recognition (OCR). 
+2. External API Integration: 
+Enable the chatbot to make and handle external API calls dynamically. 
+3. Retrieval-Augmented Generation (RAG): 
+Integrate RAG to allow the chatbot to access and respond using information from a 
+custom knowledge base. 
+4. File Handling: 
+Automatically store all files received via chat in a local directory for persistent access. 
+5. Chat Logging: 
+Save all chat conversations into a database of your choice (e.g., PostgreSQL, 
+MongoDB, SQLite). 
+ 
