@@ -1,0 +1,44 @@
+				Agentic AI
+
+What is agentic AI?
+Agentic AI is an artificial intelligence system that can accomplish a specific goal with limited supervision. It consists of AI agents—Large Language models that mimic human decision-making to solve problems in real time. In a multiagent system, each agent performs a specific subtask required to reach the goal.
+
+What an Agentic AI Does:
+User: “Book a meeting with John next week about the new project.”
+
+Understands the task:
+Goal: Schedule a meeting.
+Constraints: With John, about the new project, next week.
+Plans steps:
+Check your and John’s calendars.
+Find common available time slots.
+Create a meeting invite.
+Send the invite.
+Uses tools (like APIs):
+Calendar API to check schedules.
+Email API to send the invite.
+Acts autonomously:
+Without asking you for each small step, it does the entire task on its own.
+If John declines, it may try again with a new time.
+
+
+Key features of agentic AI
+Decision-making: Because of the pre-defined plans and objectives these AI systems can assess situations and determine the path forward without or with minimal human input.
+Problem-solving: Agentic AI uses a four-step approach for solving issues; perceive, reason, act, and learn. These four steps start by having AI agents gather and process data. The LLM then acts as an orchestrator that analyzes perceived data to understand the situation. And is then integrated with external tools that are continuously improving and learning through feedback.
+Autonomy: Autonomous behaviour defines agentic AI. It’s unique ability to learn and operate on its own make it a promising technology for organizations seeking to streamline workflows and have machines perform complex tasks with minimal human intervention.
+Planning: Agentic AI models can handle complex scenarios and execute multi-step strategies to achieve specific goals.
+
+
+Architecture:
+
+
+Use cases for AI agents:
+Customer Service agents:
+Customer service agents deliver personalized customer experiences by understanding customer needs, answering questions, resolving customer issues, or recommending the right products and services. They work seamlessly across multiple channels including the web, mobile, or point of sale, and can be integrated into product experiences with voice or video.
+
+Marketing
+In marketing and e-commerce, AI agents can autonomously perform a number of communications and advertising tasks. This might involve managing campaigns, creating customer personas, personalizing content and optimizing ad performance in real-time. While previous automation and AI technologies could manage these tasks, they depended on much more oversight and frequent user inputs to effectively perform.
+
+Retail
+AI agents offer personalized shopping experiences by recommending products, predicting trends, managing inventory and powering autonomous customer service chatbots. Intelligent merchandising agents can optimize pricing and inventory levels in real-time based on customer behaviour and demand forecasts, preventing stock-outs or other interruptions.
+

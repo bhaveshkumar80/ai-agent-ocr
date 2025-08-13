@@ -1,0 +1,22 @@
+ce
+
+help.openai.com/en/articles/6783457-what-is-chatgpt
+
+Who can view my conversations?
+
+As part of our commitment to safe and responsible Al, we review conversations to improve our
+systems and to ensure the content complies with our policies and safety requirements.
+
+Will you use my conversations for training?
+
+When you use our services for individuals such as ChatGPT, we may use your content to train
+our models. You can opt out of training through our privacy portal by clicking on “do not train
+on my content,” or to turn off training for your ChatGPT conversations, follow the instructions
+
+in our Data Controls FAQ. Once you opt out, new conversations will not be used to train our
+models.
+
+We don’t use content from our business offerings such as ChatGPT Team or ChatGPT
+Enterprise to train our models. Please see our Enterprise Privacy page for information on how
+
+we handle business data.

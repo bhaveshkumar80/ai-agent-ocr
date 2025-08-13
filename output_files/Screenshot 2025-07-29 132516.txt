@@ -1,0 +1,19 @@
+How does Microsoft 365 Copilot use your
+proprietary organizational data?
+
+Microsoft 365 Copilot provides value by connecting LLMs to your organizational data. Microsoft 365
+Copilot accesses content and context through Microsoft Graph. It can generate responses anchored
+in your organizational data, such as user documents, emails, calendar, chats, meetings, and contacts.
+Microsoft 365 Copilot combines this content with the user’s working context, such as the meeting a
+user is in now, the email exchanges the user had on a topic, or the chat conversations the user had
+last week. Microsoft 365 Copilot uses this combination of content and context to help provide
+
+accurate, relevant, and contextual responses.
+
+© Important
+—_——
+
+Prompts, responses, and data accessed through Microsoft Graph aren't used to train foundation
+
+LLMs, including those used by Microsoft 365 Copilot.
+
